@@ -66,9 +66,12 @@ Computer Engineering Student | Mobile App Developer
 
 ### 📸 App Screenshots
 
-![Screenshot 1](https://github.com/user-attachments/assets/1028e173-5b95-4b50-b10b-97072bf17701)
-![Screenshot 2](https://github.com/user-attachments/assets/e1342f36-7b4d-4b09-a9c8-a02a4126c31f)
-![Screenshot 3](https://github.com/user-attachments/assets/b106a385-d621-4c5c-9f5a-99775fadf909)
+![Screenshot 1]<img width="272" height="589" alt="image" src="https://github.com/user-attachments/assets/be886c24-6ea3-47cd-8589-7e0f148656c3" />
+
+![Screenshot 2] <img width="270" height="583" alt="image" src="https://github.com/user-attachments/assets/6546ce26-57e7-4e83-aa41-e5c9b2bac25f" />
+
+![Screenshot 3] <img width="268" height="571" alt="image" src="https://github.com/user-attachments/assets/0322ab53-fbbd-4acc-a596-c9c6326e0ec4" />
+
 
 
 
