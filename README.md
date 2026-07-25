@@ -64,14 +64,4 @@ Computer Engineering Student | Mobile App Developer
 ---
 ⭐ Thank you for visiting this project!
 
-### 📸 App Screenshots
-
-![Screenshot 1]<img width="272" height="589" alt="image" src="https://github.com/user-attachments/assets/be886c24-6ea3-47cd-8589-7e0f148656c3" />
-
-![Screenshot 2] <img width="270" height="583" alt="image" src="https://github.com/user-attachments/assets/6546ce26-57e7-4e83-aa41-e5c9b2bac25f" />
-
-![Screenshot 3] <img width="268" height="571" alt="image" src="https://github.com/user-attachments/assets/0322ab53-fbbd-4acc-a596-c9c6326e0ec4" />
-
-
-
-
+#
