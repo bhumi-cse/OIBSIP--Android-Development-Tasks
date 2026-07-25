@@ -61,17 +61,14 @@ Through this project, I gained hands-on experience with:
 
 **Bhumi**  
 Computer Engineering Student | Mobile App Developer
-
----
-⭐ Thank you for visiting this project!
 ---
 ⭐ Thank you for visiting this project!
 
 ### 📸 App Screenshots
-<p align="center">
-  <img width="250" alt="image" src="https://github.com/user-attachments/assets/1028e173-5b95-4b50-b10b-97072bf17701" />
-  <img width="250" alt="image" src="https://github.com/user-attachments/assets/e1342f36-7b4d-4b09-a9c8-a02a4126c31f" />
-  <img width="250" alt="image" src="https://github.com/user-attachments/assets/b106a385-d621-4c5c-9f5a-99775fadfo09" />
-</p>
+
+![Screenshot 1](https://github.com/user-attachments/assets/1028e173-5b95-4b50-b10b-97072bf17701)
+![Screenshot 2](https://github.com/user-attachments/assets/e1342f36-7b4d-4b09-a9c8-a02a4126c31f)
+![Screenshot 3](https://github.com/user-attachments/assets/b106a385-d621-4c5c-9f5a-99775fadf909)
+
 
 
